@@ -3,9 +3,19 @@
     padding: 0;
     margin: 0;
 }
-
+/*Set background color to white */
 body {
     background-color: #d9dcd6;
+}
+
+/*Set link color and decoration of the navigation bar*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/*Set all paragraf font size*/
+p {
+    font-size: 16px;
 }
 
 .header {
@@ -20,7 +30,7 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header h1 {
     color: #d9dcd6;
 }
 
@@ -39,15 +49,6 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
@@ -133,7 +134,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*changed class tag to id tag*/
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +143,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*changed class tag to id tag*/
 #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +161,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*changed class tag to id tag to avoide mistake in the future*/
 #search-engine-optimization img {
     max-height: 200px;
 }
