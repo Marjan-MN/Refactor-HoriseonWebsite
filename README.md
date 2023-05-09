@@ -14,7 +14,7 @@ I learned how to optmize code for better performance, improve accessibility, and
 The first step is to install the Visual Studio Code on your local system. Then install the extention "Open in browser" to open the html file. Clone the repository and commit and push changes.
 
 
-## Mock-Up
+## Screenshot
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
 
@@ -37,6 +37,6 @@ I care about sharing improvements and working in a community
 - WordPress plugins and themes must be GNU GPLv2 (or later)
 
 
-## Deployd Link
-https://github.com/Marjan-MN/Refactor-HoriseonWebsite/deployments/activity_log?environment=github-pages
+## Deployed Link
+https://marjan-mn.github.io/Refactor-HoriseonWebsite/
 
